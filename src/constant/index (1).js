@@ -4,7 +4,7 @@ import project3 from "../assets/Projects/project-3.jpg";
 import project4 from "../assets/Projects/project-4.jpg";
 import project5 from "../assets/Projects/project-5.jpg";
 
-export const HERO_CONTENT = `Passionate and dedicated Frontend React Developer eager to embark on a rewarding journey in the tech industry. With a solid foundation in React and a hunger for continuous learning,Let's collaborate and create impactful experiences that resonate with users worldwide`;
+export const HERO_CONTENT = `Passionate and dedicated Frontend React Developer eager to embark on a rewarding journey in the tech industry. With a solid foundation in React and a hunger for continuous learning,Let's col vlaborate and create impactful experiences that resonate with users worldwide`;
 
 export const ABOUT_TEXT = `"Hi there! I'm a frontend developer with expertise in HTML, CSS, JavaScript, and React.js. Passionate about crafting visually stunning UI/UX designs, I specialize in creating captivating landing web pages that engage users and leave a lasting impression. With a keen eye for detail and a knack for innovation, I thrive on bringing ideas to life through seamless frontend development and compelling design."`;
 
