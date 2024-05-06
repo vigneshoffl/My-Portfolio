@@ -38,7 +38,7 @@ const Hero = () => {
                     variants={container(1.4)}
                     initial = 'hidden' 
                     animate = 'visible'
-                    href="" className="border border-neutral-600 rounded text-lg mb-4 font-semibold p-2 hover:bg-gradient-to-r from-purple-800 to-purple-600">Check Resume</motion.a>
+                    href="https://drive.google.com/file/d/1RPKPTX93fezEfbqy3AWCJq-fzXwMpouV/view" target="blank" className="border border-neutral-600 rounded text-lg mb-4 font-semibold p-2 hover:bg-gradient-to-r from-purple-800 to-purple-600">Check Resume</motion.a>
                 </div>
             </div>
 
